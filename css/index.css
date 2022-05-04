@@ -1340,8 +1340,8 @@ canvas:not(#ribbon-canvas),
   --global-font-size: 14px;
   --global-bg: #fff;
   --font-color: #4c4948;
-  --hr-border: #d2ebfd;
-  --hr-before-color: #bfe4fb;
+  --hr-border: #c4c3f2;
+  --hr-before-color: #acabec;
   --search-bg: #f6f8fa;
   --search-input-color: #4c4948;
   --search-result-title: #4c4948;
@@ -1468,7 +1468,7 @@ table td {
   vertical-align: middle;
 }
 *::selection {
-  background: #00c4b6;
+  background: #ffd64f;
   color: #f7f7f7;
 }
 button {
@@ -2893,7 +2893,7 @@ h1.page-title + .tag-cloud-list {
   color: #8987e4;
 }
 #aside-content #card-toc .toc-content .toc-link.active {
-  background: #00c4b6;
+  background: #ffd64f;
   color: #fff;
 }
 #aside-content :only-child > .card-widget {
@@ -4105,7 +4105,7 @@ h1.page-title + .tag-cloud-list {
   text-align: center;
 }
 #pagination .page-number.current {
-  background: #00c4b6;
+  background: #ffd64f;
   color: var(--white);
 }
 #pagination .pagination-info {
@@ -4184,7 +4184,7 @@ h1.page-title + .tag-cloud-list {
   overflow-wrap: break-word;
 }
 #article-container a {
-  color: #99a9bf;
+  color: #8987e4;
 }
 #article-container a:hover {
   text-decoration: underline;
