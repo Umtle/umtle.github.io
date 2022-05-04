@@ -1468,7 +1468,7 @@ table td {
   vertical-align: middle;
 }
 *::selection {
-  background: #ffd64f;
+  background: #fbbc4e;
   color: #f7f7f7;
 }
 button {
@@ -4105,7 +4105,7 @@ h1.page-title + .tag-cloud-list {
   text-align: center;
 }
 #pagination .page-number.current {
-  background: #ffd64f;
+  background: #fbbc4e;
   color: var(--white);
 }
 #pagination .pagination-info {
