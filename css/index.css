@@ -1340,8 +1340,8 @@ canvas:not(#ribbon-canvas),
   --global-font-size: 14px;
   --global-bg: #fff;
   --font-color: #4c4948;
-  --hr-border: #c4c3f2;
-  --hr-before-color: #acabec;
+  --hr-border: #8a8aba;
+  --hr-before-color: #5c5c9d;
   --search-bg: #f6f8fa;
   --search-input-color: #4c4948;
   --search-result-title: #4c4948;
