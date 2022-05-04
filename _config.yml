@@ -4,16 +4,17 @@
 
 # Site
 title: '夜鸢的栖地'
-subtitle: '技术宅拯救世界'
-description: 'ArCrow'
+subtitle: 'Tech Otakus Save The World'
+description: '兴趣使然的独立游戏开发者'
 keywords:
 author: ArCrow
-language: zh-Hans
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+### url: https://umtle.github.io/
+url: http://www.nanoneko.top/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

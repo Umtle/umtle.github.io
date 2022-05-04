@@ -1,0 +1,7 @@
+- class_name: 小伙伴们
+  # class_desc: 海内存知已，天涯若比邻
+  link_list:
+    - name: 北轨
+      link: https://www.beigui.xyz/
+      avatar: https://www.beigui.xyz/yun.png
+      descr: Network security enthusiasts | CTFer
